@@ -1,3 +1,4 @@
 # Git Refresher
 
-Refreshing with Gwen.
+
+Refreshing with Gwen!
